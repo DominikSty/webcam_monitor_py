@@ -1,6 +1,6 @@
 import app
 
-def main():
+def main() -> None:
     app.App(window_tittle="Neural Camera Classifier")
 
 if __name__ == '__main__':
